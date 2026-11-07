@@ -138,7 +138,7 @@ Found while writing this README; none fixed yet.
 
 | Date | Change |
 |---|---|
-| | |
+|Added AK_SpeedPilot| 11/07/26 |
 
 ---
 
